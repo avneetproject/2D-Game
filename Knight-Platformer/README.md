@@ -8,9 +8,7 @@ The game is still in production, and this is the **first public showcase** of th
 
 ## 🎥 Showcase Video
 
-<video src="./showcase.mp4" controls width="100%"></video>
-
-> If the video does not autoplay, press play directly in GitHub’s preview.
+<video src="./showcase_01.mp4" controls width="100%"></video>
 
 ---
 
