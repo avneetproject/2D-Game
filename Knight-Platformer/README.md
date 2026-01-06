@@ -8,7 +8,7 @@ The game is still in production, and this is the **first public showcase** of th
 
 ## 🎥 Showcase Video
 
-<video src="./showcase_01.mp4" controls width="100%"></video>
+<video src="https://drive.google.com/file/d/1J_x51uOM4-E3edy6gxPqV8BZrdqck077/view?usp=sharing" controls width="100%"></video>
 
 ---
 
