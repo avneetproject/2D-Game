@@ -17,12 +17,10 @@ _Click the image to watch the gameplay video on Google Drive._
 ## 🖥️ UI & Menus Showcase
 
 ### Main Menu UI
-_Add image(s) here to showcase the main menu UI_
 
 ![Main Menu Screenshot](./main_menu_placeholder.png)
 
 ### Pause Menu UI
-_Add image(s) here to showcase the pause menu UI_
 
 ![Pause Menu Screenshot](./pause_menu_placeholder.png)
 
