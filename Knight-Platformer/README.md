@@ -1,8 +1,8 @@
-# 2D Game — First Development Showcase (v0.2)
+# 2D Game — Development Showcase (v0.3)
 
 Welcome! 👋  
 This repository showcases my progress as I develop a **2D action game in Unity**.  
-The game is still in production, and this is the **first public showcase** of the project.
+The game is still in production, and this is a **public development showcase** of the project.
 
 ---
 
@@ -11,9 +11,24 @@ The game is still in production, and this is the **first public showcase** of th
 [![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/13P4vNQiiBy3R9JL_UEh-eMIXO5-9PI_c/view?usp=sharing)
 
 _Click the image to watch the gameplay video on Google Drive._
+
 ---
 
-🚀 Stage 2 Progress (Implemented)
+## 🖥️ UI & Menus Showcase
+
+### Main Menu UI
+_Add image(s) here to showcase the main menu UI_
+
+![Main Menu Screenshot](./main_menu_placeholder.png)
+
+### Pause Menu UI
+_Add image(s) here to showcase the pause menu UI_
+
+![Pause Menu Screenshot](./pause_menu_placeholder.png)
+
+---
+
+🚀 Stage 3 Progress (Implemented)
 
 ### Core Systems
 - Health system (player + enemies)
@@ -22,6 +37,12 @@ _Click the image to watch the gameplay video on Google Drive._
   - Hit flash (visual feedback on impact)
   - Hit knockback (player/enemy pushback)
   - Hitstop (brief time freeze on hit for impact feel)
+- UI system implemented
+- Pause system with:
+  - Resume
+  - Restart
+  - Quit
+  - Return to Main Menu
 
 ### Player Combat
 - Melee combat system for the player
@@ -51,4 +72,3 @@ https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896
 
 Development in progress.  
 Expect frequent updates, unfinished content, and changes between commits.
-
