@@ -1,4 +1,4 @@
-# 2D Game — Development Showcase (v0.3)
+# 2D Game — Development Showcase (v0.4)
 
 Welcome! 👋  
 This repository showcases my progress as I develop a **2D action game in Unity**.  
@@ -8,7 +8,7 @@ The game is still in production, and this is a **public development showcase** o
 
 ## 🎥 Showcase Video
 
-[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/13P4vNQiiBy3R9JL_UEh-eMIXO5-9PI_c/view?usp=sharing)
+[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/1v7_YIEoWERbnphPMXYvapfvMd99Q17RP/view?usp=sharing)
 
 _Click the image to watch the gameplay video on Google Drive._
 
@@ -26,7 +26,7 @@ _Click the image to watch the gameplay video on Google Drive._
 
 ---
 
-🚀 Stage 3 Progress (Implemented)
+🚀 Stage 4 Progress (Implemented)
 
 ### Core Systems
 - Health system (player + enemies)
@@ -41,16 +41,24 @@ _Click the image to watch the gameplay video on Google Drive._
   - Restart
   - Quit
   - Return to Main Menu
+- Improved camera system:
+  - Refined camera movement and offset
+  - Smoother motion for better gameplay feel and visual clarity
 
 ### Player Combat
 - Melee combat system for the player
 
-### Enemy Combat
+### Enemy Combat & AI
 - Melee enemies implemented and placed in the map
 - Ranged enemies implemented and placed in the map
+- Enhanced enemy AI behavior:
+  - Enemies actively follow the player
+  - Faster and more aggressive attack patterns
+  - Combat now emphasizes quick reactions and smart positioning rather than simple hack-and-slash gameplay
 
 ### Playable Content
 - Map scene set up with encounters to test combat flow
+- Improved combat pacing due to smarter enemy behavior
 
 ---
 
