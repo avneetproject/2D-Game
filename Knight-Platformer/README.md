@@ -8,7 +8,7 @@ The game is still in production, and this is a **public development showcase** o
 
 ## 🎥 Showcase Video
 
-[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/1v7_YIEoWERbnphPMXYvapfvMd99Q17RP/view?usp=sharing)
+[![Gameplay Showcase](./thumbnail.png)](https://drive.google.com/file/d/1EW9hq1lEEBMxA5HavA4ZExTfOHdq2pIJ/view?usp=sharing)
 
 _Click the image to watch the gameplay video on Google Drive._
 
